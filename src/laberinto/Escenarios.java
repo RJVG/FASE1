@@ -2,6 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
+ //Con base en: http://www.lawebdelprogramador.com/codigo/Java/2676-Crear-un-laberinto-y-encontrar-el-camino-applet.html
 package laberinto;
 
 import java.util.Scanner;
